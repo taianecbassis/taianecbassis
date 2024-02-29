@@ -25,7 +25,7 @@ Minhas pesquisas se concentraram na aplicação de ferramentas de Machine Learni
 
 
 **Links:**
-* [Medium](https://medium.com/@taianecamposbr)
+
 * [LinkedIn](https://www.linkedin.com/in/taiane-c-b-de-assis-975616213/)
 
 .
@@ -36,5 +36,4 @@ Minhas pesquisas se concentraram na aplicação de ferramentas de Machine Learni
 
 See my main projects:
 
-* **Análise de Dados do Airbnb - Salvador-Ba:** 
 * **Análise de Séries Temporais de Poluentes atmosféricos:** https://github.com/taianecbassis/pollutant-salvador-ba
